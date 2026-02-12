@@ -1,0 +1,4 @@
+Открываем сайт: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+Данные пользователя введены
+Нажата кнопка 'Login'
+<UNK> <UNK> <UNK>: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index

@@ -1,0 +1,7 @@
+Текущий URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+Размер окна: {'width': 1051, 'height': 798}
+OrangeHRM сайт открылся
+поля ввода отображаются
+Данные введены
+Кнопка Login нажата
+Успешный вход! Текущий URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
