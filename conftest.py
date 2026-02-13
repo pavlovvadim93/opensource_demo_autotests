@@ -1,9 +1,6 @@
 import pytest
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service as ChromeService
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
-import os
 
 @pytest.fixture
 def browser():
@@ -17,7 +14,7 @@ def browser():
 
 @pytest.fixture(scope="function")
 def driver():
-    """Фикстура с headless Chrome через Selenium Manager"""
+    """Фикстура с headless Chrome через Selenium Manager (автоустановка драйвера)"""
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
